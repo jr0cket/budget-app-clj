@@ -14,6 +14,12 @@ To start a web server for the application, run:
 
     lein ring server
 
+## Running on the Web (Heroku)
+
+Deploy this app for yourself on Heroku (free Heroku account required) using the Heroku Button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jr0cket/budget-app-clj)
+
 ## License
 
 The MIT License (MIT)

@@ -1,0 +1,7 @@
+{
+  "name": "Budget App in Clojure",
+  "description": "A very simple budget management app written in Clojure & Luminus",
+  "repository": "https://github.com/jr0cket/budget-app-clj",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["clojure", "luminus", "finance"]
+}
